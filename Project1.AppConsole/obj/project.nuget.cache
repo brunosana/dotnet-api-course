@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h3iWmcYBZ0wF0wYjhCoFEKK2qyTXztYnS7DCeTm79rPMgChXjWE20h6sZnorp1v+qMQT9Ndz5Q/YH7B8Od/3hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\Documents\\Bruno\\C Sharp\\Project1\\Project1.AppConsole\\Project1.AppConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

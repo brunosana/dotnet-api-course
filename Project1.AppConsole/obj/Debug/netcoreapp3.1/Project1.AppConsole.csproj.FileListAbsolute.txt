@@ -1,0 +1,16 @@
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\Project1.AppConsole.exe
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\Project1.AppConsole.deps.json
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\Project1.AppConsole.runtimeconfig.json
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\Project1.AppConsole.runtimeconfig.dev.json
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\Project1.AppConsole.dll
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\Project1.AppConsole.pdb
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\Project1.Domain.dll
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\Project1.Domain.pdb
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.AssemblyInfo.cs
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.csproj.CopyComplete
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.dll
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.pdb
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.genruntimeconfig.cache
