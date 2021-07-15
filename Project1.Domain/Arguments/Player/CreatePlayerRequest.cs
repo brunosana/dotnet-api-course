@@ -5,8 +5,12 @@ namespace Project1.Domain.Arguments.Player
 {
     public class CreatePlayerRequest : IRequest
     {
-        public Name Name { get; set; }
-        public Email Email { get; set; }
+        public CreatePlayerRequest(string name, string email, string password)
+        {
+
+        }
+        public string Name { get; private set; }
+        public string Email { get; private set; }
         public string Password { get; private set; }
     }
 }

@@ -12,7 +12,8 @@ namespace Project1.AppConsole
             var service = new ServicePlayer();
             Console.WriteLine("Service instance created");
             AuthenticatePlayerRequest request = new AuthenticatePlayerRequest();
-            Console.WriteLine("Request created");
+            request.Email = "admin@admin.com";
+            request.Password = "123456";
             var response = service.Authenticate(request);
             Console.ReadKey();
         }

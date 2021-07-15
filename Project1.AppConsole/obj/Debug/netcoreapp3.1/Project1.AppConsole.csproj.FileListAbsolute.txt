@@ -14,3 +14,5 @@ C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\ne
 C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.dll
 C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.pdb
 C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\obj\Debug\netcoreapp3.1\Project1.AppConsole.genruntimeconfig.cache
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\prmToolkit.NotificationPattern.dll
+C:\Users\bruno\Documents\Bruno\C Sharp\Project1\Project1.AppConsole\bin\Debug\netcoreapp3.1\en-US\prmToolkit.NotificationPattern.resources.dll
