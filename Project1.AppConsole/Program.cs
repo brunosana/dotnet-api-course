@@ -11,10 +11,13 @@ namespace Project1.AppConsole
             Console.WriteLine("Starting...");
             var service = new ServicePlayer();
             Console.WriteLine("Service instance created");
-            AuthenticatePlayerRequest request = new AuthenticatePlayerRequest();
-            request.Email = "admin@admin.com";
-            request.Password = "123456";
-            var response = service.Authenticate(request);
+            var request = new CreatePlayerRequest(
+                "Bruno",
+                "Santana Andrade",
+                "bruno@bruno.com",
+                "123456789"
+            );
+            var response = service.Create(request);
             Console.ReadKey();
         }
     }

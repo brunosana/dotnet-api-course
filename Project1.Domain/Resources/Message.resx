@@ -126,4 +126,7 @@
   <data name="Required" xml:space="preserve">
     <value>Required {0}</value>
   </data>
+  <data name="RequiredBeetwen" xml:space="preserve">
+    <value>Required {0} beetween {1} and {2}</value>
+  </data>
 </root>

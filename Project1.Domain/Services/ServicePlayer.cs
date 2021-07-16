@@ -31,12 +31,25 @@ namespace Project1.Domain.Services
             {
                 return null;
             }
+            if (this.IsInvalid())
+            {
+                return null;
+            }
             //var response = _repositoryPlayer.Authenticate(player.Email.Address, player.Password);
+            //return response;
             return null;
         }
 
         public CreatePlayerResponse Create(CreatePlayerRequest request)
         {
+            var email = new Email(request.Email);
+            var name = new Name(request.FirstName, request.LastName);
+            Player player = new Player(name, email, request.Password);
+
+            if (this.IsInvalid())
+            {
+                return null;
+            }
             Guid Id = _repositoryPlayer.Create(request);
             return new CreatePlayerResponse() { Id = Id, Message = "Successfully player created." };
         }

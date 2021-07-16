@@ -86,5 +86,14 @@ namespace Project1.Domain.Resources {
                 return ResourceManager.GetString("Required", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Required {0} beetween {1} and {2}.
+        /// </summary>
+        public static string RequiredBeetwen {
+            get {
+                return ResourceManager.GetString("RequiredBeetwen", resourceCulture);
+            }
+        }
     }
 }
